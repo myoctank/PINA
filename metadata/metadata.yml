@@ -1,0 +1,30 @@
+metadata_version: 1
+name: 'PINA: Physics-Informed Neural networks for Advanced modeling'
+description: PINA is an open-source Python library that mainly aims to solve problems
+  defined by differential equations, providing a continuous and nonlinear approximation
+  by means of physics-informed neural networks (PINNs). Built on top of the PyTorch
+  library, it automatically inherits all the features of such a framework, like the
+  autograd module, or the GPU support. Thanks to PINA, a large variety of different
+  problems (time-dependent, parametric) can be formalized and solved using the PINNs
+  methodology.
+tags:
+- Physics-informed neural networks
+- partial differential equation
+- ordinary-differential-equations
+- Machine Learning
+authors:
+- name: Dario Coscia
+  affiliations:
+  - name: SISSA
+- name: Anna Ivagnes
+  affiliations:
+  - name: SISSA
+- name: Nicola Demo
+  affiliations:
+  - name: SISSA
+- name: Gianluigi Rozza
+  affiliations:
+  - name: SISSA
+corresponding_contributor:
+  name: Nicola Demo
+  email: ndemo@sissa.it
